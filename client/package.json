@@ -14,8 +14,10 @@
     "@ui5/webcomponents": "^1.0.0-rc.5",
     "@ui5/webcomponents-fiori": "^1.0.0-rc.5",
     "axios": "^0.19.0",
+    "fast-xml-parser": "^3.15.0",
     "vue": "^2.5.2",
-    "vue-router": "^3.0.1"
+    "vue-router": "^3.0.1",
+    "xml2js": "^0.4.22"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",
