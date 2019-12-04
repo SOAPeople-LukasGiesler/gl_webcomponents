@@ -13,7 +13,12 @@ app.get('/posts', (req, res) => {
         [{
             title: "Hello World!", 
             description: "Hi there! How are you?"
-        }]
+        },
+        {
+            title: "Post2", 
+            description: "Hello again, this works!"
+        }
+        ]
     )
 })
 
